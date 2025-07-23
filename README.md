@@ -1,11 +1,11 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Vidit Tamboli</h1>
-<h3 align="center">Eager and adaptable, seeking entry-level opportunities in the dynamic world of development</h3>
+<h3 align="center">Eager and adaptable developer with hands-on freelance experience, offering professional development services and ready to take on new and challenging projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/format:jpg/resize:fit:680/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidit93&label=Profile%20views&color=0e75b6&style=flat" alt="vidit93" /> </p>
 
-- 🔭 I’m currently working on **AadhyaToursIndia Website**
+- 🔭 I’m currently working on **QR Ticketing Application**
 
 - 🌱 I’m currently learning **Next.js, Salesforce**
 
